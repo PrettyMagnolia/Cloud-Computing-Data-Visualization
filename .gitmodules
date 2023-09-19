@@ -1,3 +1,6 @@
 [submodule "front-end"]
 	path = front-end
 	url = git@github.com:PrettyMagnolia/Cloud-Computing-Data-Visualization.git
+[submodule "back-end"]
+	path = back-end
+	url = git@github.com:PrettyMagnolia/Cloud_Computing_Project_Backend.git
